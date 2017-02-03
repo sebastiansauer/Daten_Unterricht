@@ -1,0 +1,12 @@
+Hilfe zum Datensatz "wo_men"
+
+Dieser Datensatz wurde im Rahmen von Statistikkursen an der FOM Hochschule für Oekonomie und Wissenschaft erhoben.
+
+Er umfasst folgende Variablen:
+
+- time:			Zeitstempel (Datum, Uhrzeit)
+- sex:			Geschlecht (zwei Stufen: "man", "woman")
+- height:		Koerpergroesse in cm
+- shoe_size:	Schuhgroesse in deutscher Notation
+
+
