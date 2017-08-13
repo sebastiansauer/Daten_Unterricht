@@ -1,0 +1,14 @@
+titanic_train {titanic}
+
+Titanic train data.
+
+Description: Titanic train data.
+
+Data frame with 6 columns
+
+PassengerId: Passenger ID
+Survived: Passenger Survival Indicator
+Pclass: Passenger Class
+Name: Name
+Sex: Sex
+Age: Age
